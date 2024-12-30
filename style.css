@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+.logo img{
+    width: 100px;
+    margin-bottom: -110px;
+}
+img{
+    padding-bottom:100px ;
+}
+.right iframe{
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+    /* padding: 5px; */
+}
+.logo{
+    margin-top: 15px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin-top: 30px;
+    font-size: 1.5em;
+}
+.showcase{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    color: white;
+    justify-content: space-around;
+}
+.left{
+    width: 30%;
+    margin-top: 100px;
+    font-size: xx-large;
+    line-break: anywhere;
+}
+.left a{
+    /* text-decoration: none; */
+    color: white;
+}
+.right{
+    width: 40%;
+    margin-top: 50px;
+
+}
+.showTwo{
+    display: flex;
+    margin-top: 100px;
+    gap: 30px;
+    background-color: aliceblue;
+    /* justify-content: space-around; */
+}
+.one a{
+    text-decoration: none;
+    color: blue;
+
+}
+.one img{
+    height: 200px;
+    filter: grayscale();
+}
+.two a{
+    text-decoration: none;
+    color: blue;
+
+}
+.two img{
+    height: 200px;
+}
+.three a{
+    text-decoration: none;
+    color: blue;
+
+}
+.three img{
+    height: 200px;
+    filter: grayscale();
+
+}
+
